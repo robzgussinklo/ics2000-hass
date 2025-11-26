@@ -9,7 +9,7 @@ import voluptuous as vol
 
 from typing import Any
 from ics2000_python.Core import Hub
-from ics2000_python.Devices import Device, Light, Dimmer, Optional, ZigbeeSwitch, TemperatureHumiditySensor
+from ics2000_python.Devices import Device, Light, ZigbeeSwitch
 from enum import Enum
 
 # Import the device class from the component that you want to support
