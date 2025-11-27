@@ -1,4 +1,4 @@
-git+https://github.com/b.com/robzgussinklo/ics2000-python@1.0.5#egg=ics2000_python
+git+https://github.com/robzgussinklo/ics2000-python@1.0.5#egg=ics2000_python
 homeassistant==2025.10.3
 voluptuous
 flake8
